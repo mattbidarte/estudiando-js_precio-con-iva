@@ -6,4 +6,5 @@ let resultado = iva + precio;
 // alert(`El precio con IVA es de: ${resultado} Y el IVA es: ${iva}`)
 console.log(`El precio con IVA es de: ${resultado} Y el IVA es: ${iva}`);
 
-document.write(`<h2 class="resultado">El precio con IVA es de: <strong>${resultado}</strong> Y el IVA es: ${iva}</h2>`);
+document.write(`<h2 class="resultado">El número ingresado es ${precio}.</h2>`);
+document.write(`<h2 class="resultado">El precio con IVA es de: ${resultado} Y el IVA es: ${iva}.</h2>`);
