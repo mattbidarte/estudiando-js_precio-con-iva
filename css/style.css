@@ -21,6 +21,8 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: 70vw;
+    margin: 0 auto;
 }
 
 h1{
